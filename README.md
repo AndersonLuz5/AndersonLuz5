@@ -23,4 +23,3 @@
 </div>
 
 ![snake gif](https://github.com/AndersonLuz5/AndersonLuz5/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?AndersonLuz5=AndersonLuz5&repo=AndersonLuz5&theme=react)](https://github.com/AndersonLuz5/AndersonLuz5)
