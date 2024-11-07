@@ -22,4 +22,6 @@
   <a href="https://www.linkedin.com/in/anderson-luz-242b952a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation]()
+![Snake animation](https://github.com/AndersonLuz5/AndersonLuz5/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?AndersonLuz5=AndersonLuz5&repo=AndersonLuz5&theme=react)](https://github.com/AndersonLuz5/AndersonLuz5)
