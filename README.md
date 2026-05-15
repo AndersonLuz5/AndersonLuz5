@@ -80,11 +80,17 @@ Atualmente aprofundando conhecimentos em arquitetura de sistemas, APIs seguras, 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=andersonluz5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonluz5&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=andersonluz5&show_icons=true&theme=github_dark"
+  />
+
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonluz5&layout=compact&theme=github_dark"
+  />
+
 </div>
 
 ---
